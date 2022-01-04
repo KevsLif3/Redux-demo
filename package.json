@@ -1,0 +1,9 @@
+{
+    "start": "node your-script.js",
+    "dependencies": {
+        "react-redux": "^7.2.6",
+        "redux": "^4.1.2",
+        "redux-logger": "^3.0.6",
+        "scripts": "^0.1.0"
+    }
+}
